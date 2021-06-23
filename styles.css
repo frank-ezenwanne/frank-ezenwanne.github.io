@@ -380,7 +380,7 @@ main {
 	}
 	#my-name {
 		display: block;
-		margin-left: 20%;
+		margin:auto;
 		letter-spacing:0.1rem;
 	}
 	: #profile-img {
