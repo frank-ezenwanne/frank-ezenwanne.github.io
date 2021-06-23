@@ -372,16 +372,16 @@ main {
 	}
 	.line-nav {
 		display: inline-block;
-		margin-left: -10%;
-		font-size: 80%;
+		margin-left:-1.5rem;
 	}
+	
 	#right-nav {
 		display: none;
 	}
 	#my-name {
 		display: block;
 		margin-left: 20%;
-		letter-spacing:0.2rem;
+		letter-spacing:0.1rem;
 	}
 	: #profile-img {
 		width: 50%;
